@@ -1,0 +1,18 @@
+name = "MMDDriftOnline"
+x_ref = "x_ref.npy"
+preprocess_fn = "None"
+input_shape = "None"
+data_type = "None"
+x_ref_preprocessed = false
+backend = "pytorch"
+ert = 50.0
+window_size = 10
+kernel = "None"
+sigma = "None"
+n_bootstraps = 1000
+device = "None"
+verbose = true
+
+[meta]
+version = "0.11.1"
+version_warning = false
